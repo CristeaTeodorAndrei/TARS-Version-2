@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Molex_SD")(type "KiCad")(uri "${MOLEX_SD}/New folder/FlightComputer_disertatie/Flight Computer/Symbols&Footprints/Molex_SD/Molex_SD.kicad_sym")(options "")(descr ""))
+  (lib (name "BMP581")(type "KiCad")(uri "${MOLEX_SD}/New folder/FlightComputer_disertatie/Flight Computer/Symbols&Footprints/BMP581/BMP581.kicad_sym")(options "")(descr ""))
+  (lib (name "ICM-45686")(type "KiCad")(uri "${MOLEX_SD}/New folder/FlightComputer_disertatie/Flight Computer/Symbols&Footprints/ICM-45686/ICM-45686.kicad_sym")(options "")(descr ""))
+  (lib (name "IRFR9120NTRPBF")(type "KiCad")(uri "${MOLEX_SD}/New folder/FlightComputer_disertatie/Flight Computer/Symbols&Footprints/IRFR9120N/IRFR9120NTRPBF.kicad_sym")(options "")(descr ""))
+  (lib (name "2025-05-16_08-10-16")(type "KiCad")(uri "${MOLEX_SD}/New folder/FlightComputer_disertatie/Flight Computer/Symbols&Footprints/BMM350/2025-05-16_08-10-16.kicad_sym")(options "")(descr ""))
+  (lib (name "IPD135N03L")(type "KiCad")(uri "${MOLEX_SD}/New folder/FlightComputer_disertatie/Flight Computer/Symbols&Footprints/IPD135N03L.kicad_sym")(options "")(descr ""))
+  (lib (name "LMR51450SDRRR")(type "KiCad")(uri "${MOLEX_SD}/New folder/FlightComputer_disertatie/Flight Computer/Symbols&Footprints/LMR51450/LMR51450SDRRR.kicad_sym")(options "")(descr ""))
+)

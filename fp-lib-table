@@ -1,0 +1,12 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SD_Molex")(type "KiCad")(uri "${KIPRJMOD}/Symbols&Footprints/Molex_SD/SD_Molex.pretty")(options "")(descr ""))
+  (lib (name "BMP581")(type "KiCad")(uri "${KIPRJMOD}/Symbols&Footprints/BMP581/BMP581.pretty")(options "")(descr ""))
+  (lib (name "ICM-45686")(type "KiCad")(uri "${KIPRJMOD}/Symbols&Footprints/ICM-45686/ICM-45686.pretty")(options "")(descr ""))
+  (lib (name "IRFR9210N")(type "KiCad")(uri "${KIPRJMOD}/Symbols&Footprints/IRFR9120N/IRFR9210N.pretty")(options "")(descr ""))
+  (lib (name "BMM350")(type "KiCad")(uri "${MOLEX_SD}/New folder/FlightComputer_disertatie/Flight Computer/Symbols&Footprints/BMM350.pretty")(options "")(descr ""))
+  (lib (name "IPD50R380CE")(type "KiCad")(uri "${MOLEX_SD}/New folder/FlightComputer_disertatie/Flight Computer/Symbols&Footprints/IPD50R380CE/IPD50R380CE.pretty")(options "")(descr ""))
+  (lib (name "Wago")(type "KiCad")(uri "${MOLEX_SD}/New folder/FlightComputer_disertatie/Flight Computer/Symbols&Footprints/Wago.pretty")(options "")(descr ""))
+  (lib (name "WAGO_4mm")(type "KiCad")(uri "${MOLEX_SD}/Project-YODA_Hardware/Flight Computer/Symbols&Footprints/WAGO_4mm.pretty")(options "")(descr ""))
+  (lib (name "LMR51450")(type "KiCad")(uri "${MOLEX_SD}/New folder/FlightComputer_disertatie/Flight Computer/Symbols&Footprints/LMR51450.pretty")(options "")(descr ""))
+)
