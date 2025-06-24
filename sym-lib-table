@@ -7,4 +7,5 @@
   (lib (name "2025-05-16_08-10-16")(type "KiCad")(uri "${MOLEX_SD}/New folder/FlightComputer_disertatie/Flight Computer/Symbols&Footprints/BMM350/2025-05-16_08-10-16.kicad_sym")(options "")(descr ""))
   (lib (name "IPD135N03L")(type "KiCad")(uri "${MOLEX_SD}/New folder/FlightComputer_disertatie/Flight Computer/Symbols&Footprints/IPD135N03L.kicad_sym")(options "")(descr ""))
   (lib (name "LMR51450SDRRR")(type "KiCad")(uri "${MOLEX_SD}/New folder/FlightComputer_disertatie/Flight Computer/Symbols&Footprints/LMR51450/LMR51450SDRRR.kicad_sym")(options "")(descr ""))
+  (lib (name "SAM-M10Q-00B")(type "KiCad")(uri "${MOLEX_SD}/TARS-Version-2/Symbols&Footprints/SAM-M10Q-00B/SAM-M10Q-00B.kicad_sym")(options "")(descr ""))
 )

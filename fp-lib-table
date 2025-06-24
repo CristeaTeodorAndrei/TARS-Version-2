@@ -9,4 +9,5 @@
   (lib (name "Wago")(type "KiCad")(uri "${MOLEX_SD}/New folder/FlightComputer_disertatie/Flight Computer/Symbols&Footprints/Wago.pretty")(options "")(descr ""))
   (lib (name "WAGO_4mm")(type "KiCad")(uri "${MOLEX_SD}/Project-YODA_Hardware/Flight Computer/Symbols&Footprints/WAGO_4mm.pretty")(options "")(descr ""))
   (lib (name "LMR51450")(type "KiCad")(uri "${MOLEX_SD}/New folder/FlightComputer_disertatie/Flight Computer/Symbols&Footprints/LMR51450.pretty")(options "")(descr ""))
+  (lib (name "SAM-M10Q-00B")(type "KiCad")(uri "${MOLEX_SD}/TARS-Version-2/Symbols&Footprints/SAM-M10Q-00B.pretty")(options "")(descr ""))
 )
